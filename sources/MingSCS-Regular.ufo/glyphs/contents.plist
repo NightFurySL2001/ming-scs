@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>.notdef</key>
+  <string>_notdef.glif</string>
+  <key>u2148A</key>
+  <string>u2148A_.glif</string>
+  <key>u21912</key>
+  <string>u21912.glif</string>
+  <key>uni399B</key>
+  <string>uni399B_.glif</string>
+  <key>uni5DBC</key>
+  <string>uni5D_B_C_.glif</string>
+  <key>uni64E7</key>
+  <string>uni64E_7.glif</string>
+  <key>uni6511</key>
+  <string>uni6511.glif</string>
+  <key>uni65DF</key>
+  <string>uni65D_F_.glif</string>
+  <key>uni6AF8</key>
+  <string>uni6A_F_8.glif</string>
+  <key>uni6B05</key>
+  <string>uni6B_05.glif</string>
+  <key>uni6B5F</key>
+  <string>uni6B_5F_.glif</string>
+  <key>uni74B5</key>
+  <string>uni74B_5.glif</string>
+  <key>uni791C</key>
+  <string>uni791C_.glif</string>
+  <key>uni7A65</key>
+  <string>uni7A_65.glif</string>
+  <key>uni7C45</key>
+  <string>uni7C_45.glif</string>
+  <key>uni8207</key>
+  <string>uni8207.glif</string>
+  <key>uni8209</key>
+  <string>uni8209.glif</string>
+  <key>uni85C7</key>
+  <string>uni85C_7.glif</string>
+  <key>uni8977</key>
+  <string>uni8977.glif</string>
+  <key>uni8B7D</key>
+  <string>uni8B_7D_.glif</string>
+  <key>uni8F5D</key>
+  <string>uni8F_5D_.glif</string>
+  <key>uni9C6E</key>
+  <string>uni9C_6E_.glif</string>
+  <key>uni9E12</key>
+  <string>uni9E_12.glif</string>
+</dict>
+</plist>
