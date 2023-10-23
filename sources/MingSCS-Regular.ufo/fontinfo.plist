@@ -27,7 +27,7 @@
   </dict>
   </array>
   <key>italicAngle</key>
-  <integer>-0</integer>
+  <integer>0</integer>
   <key>openTypeGaspRangeRecords</key>
   <array>
   <dict>
@@ -43,7 +43,7 @@
   </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2023/08/16 05:14:27</string>
+  <string>2023/08/16 12:00:27</string>
   <key>openTypeHeadFlags</key>
   <array>
   </array>
@@ -55,8 +55,10 @@
   <integer>-286</integer>
   <key>openTypeHheaLineGap</key>
   <integer>-0</integer>
+  <key>openTypeNameDescription</key>
+  <string>This font is derived from Source Han Serif (https://github.com/adobe-fonts/source-han-serif) VF Extralight with modifications by NightFurySL2001.</string>
   <key>openTypeNameDesigner</key>
-  <string>Adobe Source Han Serif</string>
+  <string>NightFurySL2001, Adobe (Source Han Serif)</string>
   <key>openTypeNameLicense</key>
   <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \0022AS IS\0022 BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.</string>
   <key>openTypeNameLicenseURL</key>
@@ -188,8 +190,6 @@
   <string>regular</string>
   <key>styleName</key>
   <string>Regular</string>
-  <key>trademark</key>
-  <string>Source is a trademark of Adobe in the United States and/or other countries.</string>
   <key>unitsPerEm</key>
   <integer>1000</integer>
   <key>versionMajor</key>
