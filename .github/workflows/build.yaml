@@ -52,4 +52,4 @@ jobs:
       - name: Upload font
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit-message: Upload compiled fonts
+          commit_message: Upload compiled fonts
