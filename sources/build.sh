@@ -1,1 +1,1 @@
-gftools builder config.yaml
+fontmake MingSCS-Regular.ufo -o otf --output-path ../fonts/otf/
