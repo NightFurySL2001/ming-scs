@@ -31,7 +31,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: '3.12'
 
       - name: Install dependencies
         run: |
@@ -41,7 +41,7 @@ jobs:
       - name: Build font
         run: |
           cd sources
-          bash build.sh
+          gftools builder config.yaml --output-dir ../fonts
 
       - name: Archive artifacts
         uses: actions/upload-artifact@v3

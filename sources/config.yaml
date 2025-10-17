@@ -1,0 +1,7 @@
+sources:
+    - MingSCS-Regular.ufo
+familyName: "Ming-SCS"
+buildTTF: false
+buildOTF: true
+autohintTTF: false
+autohintOTF: false
