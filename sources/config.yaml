@@ -5,3 +5,4 @@ buildTTF: false
 buildOTF: true
 autohintTTF: false
 autohintOTF: false
+outputDir: ../fonts

@@ -41,7 +41,7 @@ jobs:
       - name: Build font
         run: |
           cd sources
-          gftools builder config.yaml --output-dir ../fonts
+          gftools builder config.yaml
 
       - name: Archive artifacts
         uses: actions/upload-artifact@v4
