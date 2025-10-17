@@ -36,7 +36,7 @@ jobs:
       - name: Install dependencies
         run: |
           python3 -m pip install --upgrade pip
-          python3 -m pip install fontmake
+          python3 -m pip install gftools
 
       - name: Build font
         run: |
