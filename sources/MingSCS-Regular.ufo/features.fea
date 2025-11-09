@@ -7,9 +7,9 @@ feature ss01 {
 # Stylistic Set 01–20
 
 #> feature
-sub uni5DBC by uni5DBC.1;
-sub uni7C45 by uni7C45.1;
-sub uni85C7 by uni85C7.1;
-sub u21912 by u21912.1;
+sub uni5DBC.1 by uni5DBC;
+sub uni7C45.1 by uni7C45;
+sub uni85C7.1 by uni85C7;
+sub u21912.1 by u21912;
 #< feature
 } ss01;
