@@ -27,7 +27,7 @@
   </dict>
   </array>
   <key>italicAngle</key>
-  <integer>0</integer>
+  <integer>-0</integer>
   <key>openTypeGaspRangeRecords</key>
   <array>
   <dict>
@@ -131,9 +131,9 @@
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
-  <integer>1151</integer>
+  <integer>880</integer>
   <key>openTypeOS2WinDescent</key>
-  <integer>286</integer>
+  <integer>120</integer>
   <key>postscriptBlueFuzz</key>
   <integer>1</integer>
   <key>postscriptBlueScale</key>
